@@ -12,6 +12,36 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=CharlloteM&theme=default" width = 400>
 </p>
 
+<div align = "center">
+<a href="https://instagram.com/CharlloteM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/CharlloteM" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@CharlloteM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/CharlloteM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div><br>
+
+
+<!-- <p align = "center">
+<img src = "https://cdn-icons-png.flaticon.com/512/185/185964.png" width = 30>  
+<img src = "https://cdn-icons-png.flaticon.com/512/185/185970.png" width = 30>  
+<img src = "https://cdn-icons-png.flaticon.com/512/185/185961.png" width = 30>
+<img src = "https://cdn-icons-png.flaticon.com/512/185/185985.png" width = 30>
+<img src = "https://cdn-icons-png.flaticon.com/512/185/185987.png" width = 30>  
+<img src = "https://cdn-icons-png.flaticon.com/512/185/185967.png" width = 30>  
+</p> -->
+<!--https://www.flaticon.com/br/packs/social-media-icons
+https://shields.io/
+https://gist.github.com/rxaviers/7360908
+https://devicon.dev/-->
+
+<p align = "center">
+<img src = "https://cdn-icons.flaticon.com/png/512/381/premium/381741.png?token=exp=1644859241~hmac=16912b2c785a1a927836ba79c622d7c1" width = 100>
+</p>
+
+
+
+
+
+
 <!-- <h3>✨ Learned:</h3>
 <strong> Language:</strong> HTML, CSS, JavaScript;<br>
 <strong> Skills:</strong> Photoshop, Illustrator, CorelDRAW, InDesign, Figma;<br>
@@ -27,23 +57,6 @@
   </tr>
 </thead>
 </table> -->
-
-
-<p align = "center">
-<img src = "https://cdn-icons-png.flaticon.com/512/185/185964.png" width = 30>  
-<img src = "https://cdn-icons-png.flaticon.com/512/185/185970.png" width = 30>  
-<img src = "https://cdn-icons-png.flaticon.com/512/185/185961.png" width = 30>
-<img src = "https://cdn-icons-png.flaticon.com/512/185/185985.png" width = 30>
-<img src = "https://cdn-icons-png.flaticon.com/512/185/185987.png" width = 30>  
-<img src = "https://cdn-icons-png.flaticon.com/512/185/185967.png" width = 30>  
-</p>
-<!--https://www.flaticon.com/br/packs/social-media-icons-->
-
-<p align = "center">
-<img src = "https://cdn-icons.flaticon.com/png/512/381/premium/381741.png?token=exp=1644859241~hmac=16912b2c785a1a927836ba79c622d7c1" width = 100>
-</p>
-
-
 
 <!--
 **CharlloteM/CharlloteM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
